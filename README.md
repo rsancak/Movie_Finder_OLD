@@ -7,5 +7,3 @@ https://github.com/rsancak/Movie_Finder_OLD/assets/95458071/b6eec2c4-4628-42a9-8
 1- "npm install"
 
 2- "npm run start"
-
-Good Job :)
